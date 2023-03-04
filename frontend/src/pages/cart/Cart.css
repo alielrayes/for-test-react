@@ -1,9 +1,10 @@
 .item-container {
   color: yellow;
+  color: rebeccapurple;
 
 
 
-  
+
   display: flex;
   justify-content: space-around;
   align-content: center;

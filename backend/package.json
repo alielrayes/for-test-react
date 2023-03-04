@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "dev": "node --watch index.js",
     "build": "npm i"
   },
   "dependencies": {
